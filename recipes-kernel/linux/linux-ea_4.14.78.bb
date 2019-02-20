@@ -11,7 +11,7 @@ SRC_URI = "git://github.com/scottdkerr/linux-imx.git;protocol=git;branch=${SRCBR
 
 LOCALVERSION = "-1.0.0"
 SRCBRANCH = "ea_4.14.78"
-SRCREV = "65e4f5c5ab06b5a3207fb1e7bcb24792d9850323"
+SRCREV = "05dbd8141a9a0851371e37047f5c1c7d4c2845fc"
 DEPENDS += "lzop-native bc-native"
 
 
